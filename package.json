@@ -1,0 +1,35 @@
+{
+  "name": "readable-random",
+  "description": "Gives back a human readable 'random' string.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/anthonyringoet/readable-random",
+  "author": {
+    "name": "Anthony Ringoet",
+    "email": "anthonyringoet@gmail.com",
+    "url": "http://anthonyringoet.be"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anthonyringoet/readable-random.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anthonyringoet/readable-random/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/anthonyringoet/readable-random/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/readable-random",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.15"
+  },
+  "keywords": []
+}
