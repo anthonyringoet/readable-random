@@ -1,7 +1,7 @@
 {
   "name": "readable-random",
   "description": "Gives back a human readable 'random' string.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "homepage": "https://github.com/anthonyringoet/readable-random",
   "author": {
     "name": "Anthony Ringoet",
