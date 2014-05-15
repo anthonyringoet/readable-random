@@ -1,4 +1,4 @@
-# readable-random
+# readable-random ![travis badge](https://travis-ci.org/anthonyringoet/readable-random.svg)
 
 Gives back a human readable 'random' string. Like Jsbin flavor url's.
 
